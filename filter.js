@@ -30,8 +30,6 @@ function NSFWFilter(item) {
 
         await loadScript(NSFWFilter.scriptDir + "/tfjs.js");
         await loadScript(NSFWFilter.scriptDir + "/nsfwjs.min.js");
-        console.log(nsfwjs)
-        debugger
 
         NSFWFilter.model = await nsfwjs.load(NSFWFilter.scriptDir + "/model.json");
         NSFWFilter.isLoaded = true;
