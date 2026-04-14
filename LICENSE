@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2026 Topluyo
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,24 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   ---
+
+   THIRD-PARTY NOTICES
+
+   This project uses the following third-party components:
+
+   1. TensorFlow.js (tfjs.js)
+      Copyright 2024 Google LLC
+      Licensed under the Apache License, Version 2.0
+      https://www.tensorflow.org/js
+
+   2. NSFW.js (nsfwjs.min.js)
+      Copyright (c) 2018 Infinite Red, Inc.
+      Licensed under the MIT License
+      https://github.com/infinitered/nsfwjs
+
+   3. MobileNet v2 NSFW Model (model.json, group1-shard1of1)
+      Copyright (c) 2018 Infinite Red, Inc.
+      Licensed under the MIT License
+      https://github.com/infinitered/nsfwjs/tree/master/models/mobilenet_v2
